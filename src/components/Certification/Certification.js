@@ -30,7 +30,7 @@ function Certifications() {
               title="AWS Certified Cloud Practitioner"
               issuedBy="Amazon Web Services (AWS)"
               certLink="https://www.credly.com/badges/37743b9d-3ba6-486b-a640-3e402a538e20/public_url"
-              pdfLink="/cert/AWS_CLF.pdf"
+              pdfLink="/Cert/AWS_CLF.pdf"
             />
           </Col>
 
@@ -49,7 +49,7 @@ function Certifications() {
               title="AWS Academy Graduate - AWS Academy Cloud Foundations"
               issuedBy="AWS Academy"
               certLink="https://www.credly.com/badges/7569badc-8a03-4fff-93a8-23f8671d7bb9/public_url"
-              pdfLink="/cert/AWS_ACA.pdf"
+              pdfLink="/Cert/AWS_ACA.pdf"
             />
           </Col>
         </Row>
@@ -61,7 +61,7 @@ function Certifications() {
       title="AWS Academy Graduate - AWS Academy Cloud Developing"
       issuedBy="AWS Academy"
       certLink="https://www.credly.com/badges/02d69a27-b6a0-48f7-8272-3c81051e8d7b/public_url"
-      pdfLink="/cert/Clouddeveloping.pdf"
+      pdfLink="/Cert/Clouddeveloping.pdf"
     />
   </Col>
 
@@ -69,7 +69,7 @@ function Certifications() {
     <CertificationCard
       title="Data Structure and Algorithms Using Java"
       issuedBy="NPTEL"
-      pdfLink="/cert/NPTEL.pdf"
+      pdfLink="/Cert/NPTEL.pdf"
     />
   </Col>
 
@@ -77,7 +77,7 @@ function Certifications() {
     <CertificationCard
       title="AWS Cloud Practitioner Essentials"
       issuedBy="Amazon Web Services (AWS)"
-      pdfLink="/cert/ESS.pdf"
+      pdfLink="/Cert/ESS.pdf"
     />
   </Col>
 </Row>
