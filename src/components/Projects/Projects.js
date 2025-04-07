@@ -38,7 +38,7 @@ function Projects() {
               title="Skill hub"
               description="Developed a web site featuring dual interfaces: an admin dashboard and a user interface. Implemented user authentication functionalities including registration, login, and password recovery.Users can securely input and manage their information through a user-friendly form upon logging in.On the admin side, integrated features enabling administrators to efficiently manage user data, including viewing all user profiles and applying filters based on skills and areas of interest.Empowered users to engage in interactive communication by creating posts and commenting on other user contributions.
 "
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/vatsal9972/skill-hub"
             />
           </Col>
 
